@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name":" Sneak 2.O",
+        "price": "₹8999",
+        "image": "img/pi.png",
+        "description": "Sneak 2.0, the innovative hardware device in the VPN Sneak project, redefines online security. A powerful combination of Raspberry Pi technology and cutting-edge features, Sneak 2.0 empowers users to create personalized VPN servers effortlessly. This tangible solution enhances digital privacy, particularly in public Wi-Fi settings, providing a robust defense against cyber threats. With its compact design and user-friendly interface, Sneak 2.0 is a game-changer in fortifying digital security."
+    },
+    {
+        "id": 2,
+        "name":" VPN Sneak App",
+        "price": "FREE",
+        "image": "img/app.png",
+        "description": "The VPN Sneak app, version v7.7.0, is your gateway to enhanced online privacy and security. Seamlessly designed for user-friendliness, this Android application allows users to connect to VPN servers worldwide, masking their IP addresses and preventing tracking. With a sleek interface, it offers a diverse range of VPN locations, real-time network speed tests, and a user-centric account section for managing connections and ordering the innovative Sneak 2.0 hardware device. Empowering users with control over their digital privacy, the VPN Sneak app is a comprehensive solution for a secure online experience."
+    },
+    {
+        "id": 3,
+        "name":"Sneak Node",
+        "price": "₹500",
+        "image": "img/node.png",
+        "description": "Sneak Node, crafted with Node MCU technology, is a versatile hardware marvel within the VPN Sneak project. Designed to act as a Wi-Fi jammer, cloner, and generator of random Wi-Fi names, Sneak Node introduces a new dimension to network control and security. Its compact form and Node MCU capabilities make it an innovative addition, offering users advanced functionalities to safeguard their online presence. Sneak Node signifies a dynamic exploration of hardware solutions, contributing to the project's commitment to comprehensive digital security."
+    },
+    {
+        "id": 4,
+        "name":"VPN Sneak Web",
+        "price": "FREE",
+        "image": "img/web.png",
+        "description": "The VPN Sneak website serves as an informative hub, offering insights into the world of virtual private networks. Designed to educate and empower, it provides details about VPNs, guides users to download the Android app, and facilitates orders for the innovative Sneak 2.0 hardware device. With a user-centric approach, the website aims to equip visitors with knowledge about online security, making it a central platform for individuals seeking reliable VPN solutions. Discover, download, and fortify your digital presence through the VPN Sneak website."
+    }
+
+]
